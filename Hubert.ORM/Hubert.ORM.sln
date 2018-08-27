@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.Common", "Hubert.Common", "{9C0184BA-D7B3-46F6-9CFE-206E949DAF9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.ORM", "Hubert.ORM", "{C8E8BFF0-42D3-4888-A61A-BD53DBE38D5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.Test", "Hubert.Test", "{DC99F6E9-83D2-4CA5-91F0-384DE9C1CAE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.WebApi", "Hubert.WebApi", "{179CDCD1-A02D-4557-984A-0D7994C2B5F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.Entities", "Hubert.Entities", "{9F9A99B9-8CC7-4DD9-BAF3-81514691D506}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.UI", "Hubert.UI", "{DC055F4B-6B5F-4161-BDC3-E35233F4DF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Test.ORM", "Hubert.Test\Hubert.Test.ORM\Hubert.Test.ORM.csproj", "{4A0C02A4-E46D-482A-9B89-B78E91DD838E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Common.Method", "Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj", "{B66F27B6-7579-4BE8-93E5-060E4AD1819E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.ORM.Dapper", "Hubert.ORM\Hubert.ORM.Dapper\Hubert.ORM.Dapper.csproj", "{3F04A844-0885-436A-AF60-B43D8F81791A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Entities.System", "Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj", "{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0C02A4-E46D-482A-9B89-B78E91DD838E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0C02A4-E46D-482A-9B89-B78E91DD838E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0C02A4-E46D-482A-9B89-B78E91DD838E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0C02A4-E46D-482A-9B89-B78E91DD838E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66F27B6-7579-4BE8-93E5-060E4AD1819E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66F27B6-7579-4BE8-93E5-060E4AD1819E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66F27B6-7579-4BE8-93E5-060E4AD1819E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66F27B6-7579-4BE8-93E5-060E4AD1819E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F04A844-0885-436A-AF60-B43D8F81791A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F04A844-0885-436A-AF60-B43D8F81791A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F04A844-0885-436A-AF60-B43D8F81791A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F04A844-0885-436A-AF60-B43D8F81791A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A0C02A4-E46D-482A-9B89-B78E91DD838E} = {DC99F6E9-83D2-4CA5-91F0-384DE9C1CAE8}
+		{B66F27B6-7579-4BE8-93E5-060E4AD1819E} = {9C0184BA-D7B3-46F6-9CFE-206E949DAF9B}
+		{3F04A844-0885-436A-AF60-B43D8F81791A} = {C8E8BFF0-42D3-4888-A61A-BD53DBE38D5D}
+		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B} = {9F9A99B9-8CC7-4DD9-BAF3-81514691D506}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E16B2AB-B525-43FF-A184-72127654EAA1}
+	EndGlobalSection
+EndGlobal

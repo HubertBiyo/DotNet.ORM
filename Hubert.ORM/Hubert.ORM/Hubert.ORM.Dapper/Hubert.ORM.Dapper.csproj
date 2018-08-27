@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj" />
+    <ProjectReference Include="..\..\Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj" />
+  </ItemGroup>
+
+</Project>
