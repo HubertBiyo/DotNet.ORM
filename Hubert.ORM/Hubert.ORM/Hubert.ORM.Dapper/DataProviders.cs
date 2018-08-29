@@ -1,4 +1,5 @@
-﻿using Hubert.Common.Method.Data;
+﻿using Hubert.Common.Method.Configuration;
+using Hubert.Common.Method.Data;
 using Hubert.ORM.Dapper.IDataProviders;
 using Hubert.ORM.Dapper.SqlDataProviders;
 using System;
@@ -9,6 +10,14 @@ namespace Hubert.ORM.Dapper
 {
     public class DataProviders
     {
+        internal static string Connection_Sql
+        {
+            get
+                {
+                string connectionString = ConfigHelper.GetString("AppSettings:SqlConnectionString:ConnectionString");
+                return connectionString;
+            }
+        }
         public static IUserDataProvider UserDataProvider
         {
             get {return Get<IUserDataProvider, SqlUserDataProvider>(); }

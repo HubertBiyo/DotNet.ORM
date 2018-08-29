@@ -1,0 +1,16 @@
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Service.System.deps.json
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Service.System.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Service.System.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Common.Method.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Entities.System.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Common.Method.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.Entities.System.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.csprojAssemblyReference.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.csproj.CoreCompileInputs.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.AssemblyInfoInputs.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.AssemblyInfo.cs
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.csproj.CopyComplete
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.pdb

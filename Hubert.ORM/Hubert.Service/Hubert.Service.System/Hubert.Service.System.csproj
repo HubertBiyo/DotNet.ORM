@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj" />
+    <ProjectReference Include="..\..\Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj" />
+    <ProjectReference Include="..\..\Hubert.ORM\Hubert.ORM.Dapper\Hubert.ORM.Dapper.csproj" />
+  </ItemGroup>
+
+</Project>

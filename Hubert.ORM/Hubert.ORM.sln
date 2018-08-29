@@ -15,13 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.Entities", "Hubert.E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.UI", "Hubert.UI", "{DC055F4B-6B5F-4161-BDC3-E35233F4DF22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Test.ORM", "Hubert.Test\Hubert.Test.ORM\Hubert.Test.ORM.csproj", "{4A0C02A4-E46D-482A-9B89-B78E91DD838E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hubert.Test.ORM", "Hubert.Test\Hubert.Test.ORM\Hubert.Test.ORM.csproj", "{4A0C02A4-E46D-482A-9B89-B78E91DD838E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Common.Method", "Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj", "{B66F27B6-7579-4BE8-93E5-060E4AD1819E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hubert.Common.Method", "Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj", "{B66F27B6-7579-4BE8-93E5-060E4AD1819E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.ORM.Dapper", "Hubert.ORM\Hubert.ORM.Dapper\Hubert.ORM.Dapper.csproj", "{3F04A844-0885-436A-AF60-B43D8F81791A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hubert.ORM.Dapper", "Hubert.ORM\Hubert.ORM.Dapper\Hubert.ORM.Dapper.csproj", "{3F04A844-0885-436A-AF60-B43D8F81791A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Entities.System", "Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj", "{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hubert.Entities.System", "Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj", "{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hubert.Service", "Hubert.Service", "{92ED4B09-3748-43C5-AA36-4A69E4B872BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubert.Service.System", "Hubert.Service\Hubert.Service.System\Hubert.Service.System.csproj", "{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,10 @@ Global
 		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +62,7 @@ Global
 		{B66F27B6-7579-4BE8-93E5-060E4AD1819E} = {9C0184BA-D7B3-46F6-9CFE-206E949DAF9B}
 		{3F04A844-0885-436A-AF60-B43D8F81791A} = {C8E8BFF0-42D3-4888-A61A-BD53DBE38D5D}
 		{C5666557-9C1D-4E9C-A1F4-DF6CCC3E1A0B} = {9F9A99B9-8CC7-4DD9-BAF3-81514691D506}
+		{F6FAAEC9-9ED1-4B0C-B3F9-40F861103183} = {92ED4B09-3748-43C5-AA36-4A69E4B872BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E16B2AB-B525-43FF-A184-72127654EAA1}

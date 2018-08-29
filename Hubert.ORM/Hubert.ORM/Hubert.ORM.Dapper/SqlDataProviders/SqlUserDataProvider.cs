@@ -34,10 +34,10 @@ VALUES  ( @Id ,
           @Remark 
         )
 ");
-            using (IDbConnection conn = GetSqlConnection(""))
+            using (IDbConnection conn =GetSqlConnection(DataProviders.Connection_Sql))
             {
-                return  conn.Execute(sql.ToString(), model)>0;
-                
+                return conn.Execute(sql.ToString(), model) > 0;
+
             }
         }
 

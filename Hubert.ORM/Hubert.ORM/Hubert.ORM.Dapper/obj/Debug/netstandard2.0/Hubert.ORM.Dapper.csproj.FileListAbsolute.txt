@@ -1,0 +1,14 @@
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.deps.json
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Common.Method.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Entities.System.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Common.Method.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Entities.System.pdb
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csprojAssemblyReference.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csproj.CoreCompileInputs.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.AssemblyInfoInputs.cache
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.AssemblyInfo.cs
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csproj.CopyComplete
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
+C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb

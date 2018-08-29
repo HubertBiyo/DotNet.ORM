@@ -12,4 +12,9 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj" />
+    <ProjectReference Include="..\..\Hubert.Service\Hubert.Service.System\Hubert.Service.System.csproj" />
+  </ItemGroup>
+
 </Project>
