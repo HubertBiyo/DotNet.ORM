@@ -12,5 +12,6 @@ namespace Hubert.ORM.Dapper.IDataProviders
         bool Edit(User model);
         bool Delete(Guid Id);
         List<User> SearchList(UserSearchCondition condition);
+        int SearchListCount(UserSearchCondition condition);
     }
 }

@@ -11,7 +11,7 @@ namespace Hubert.Entities.System
         public int PageSize { get; set; }
     }
 
-    public class UserSearchCondition
+    public class UserSearchCondition:SearchCondition
     {
 
     }

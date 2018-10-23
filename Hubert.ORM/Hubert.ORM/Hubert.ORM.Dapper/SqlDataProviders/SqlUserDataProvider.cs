@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Linq;
 using System.Text;
 
 namespace Hubert.ORM.Dapper.SqlDataProviders
@@ -34,7 +35,7 @@ VALUES  ( @Id ,
           @Remark 
         )
 ");
-            using (IDbConnection conn =GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
             {
                 return conn.Execute(sql.ToString(), model) > 0;
 
@@ -43,17 +44,60 @@ VALUES  ( @Id ,
 
         public bool Delete(Guid Id)
         {
-            throw new NotImplementedException();
+            StringBuilder sql = new StringBuilder(@"
+DELETE  FROM [dbo].[User]
+WHERE   Id = @Id
+");
+            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            {
+                return conn.Execute(sql.ToString(), new { Id }) > 0;
+            }
         }
 
         public bool Edit(User model)
         {
-            throw new NotImplementedException();
+            StringBuilder sql = new StringBuilder(@"
+UPDATE  [dbo].[User]
+SET     [UserName] = @UserName ,
+        [Email] = @Email ,
+        [Phone] = @Phone ,
+        [Lng] = @Lng ,
+        [Lat] = @Lat ,
+        [Location] = @Location ,
+        [Remark] = @Remark 
+WHERE   Id = @Id
+");
+            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            {
+                return conn.Execute(sql.ToString(), model) > 0;
+            }
         }
 
         public List<User> SearchList(UserSearchCondition condition)
         {
-            throw new NotImplementedException();
+            StringBuilder sql = new StringBuilder(@"
+SELECT  *
+FROM    ( SELECT    ROW_NUMBER() OVER ( ORDER BY CreateTime DESC ) AS RowNum,*
+          FROM      dbo.[User]
+        ) tb
+WHERE   RowNum BETWEEN STR(@PageIndex - 1) * @PageSize + 1
+               AND     STR(@PageIndex * @PageSize)
+");
+            var list = new List<User>();
+            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            {
+                return conn.Query<User>(sql.ToString(), condition).ToList();
+            }
+        }
+        public int SearchListCount(UserSearchCondition condition)
+        {
+            StringBuilder sql = new StringBuilder(@"
+SELECT COUNT(0) Total FROM dbo.[User]
+");
+            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            {
+                return conn.Query<User>(sql.ToString(), null).ToList().Count();
+            }
         }
         private static SqlConnection GetSqlConnection(string sqlConnectionString)
         {
@@ -61,5 +105,7 @@ VALUES  ( @Id ,
             conn.Open();
             return conn;
         }
+
+        
     }
 }
