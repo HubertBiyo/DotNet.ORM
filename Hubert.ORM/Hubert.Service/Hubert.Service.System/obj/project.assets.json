@@ -670,7 +670,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "7DUxlu/edHE+oa6PUd0/nRw0FmmJDyihiXVB3B4UTM6B1JV4S3aX92qNAr6OxlJIZLyYhvosF0s/uszEnzXolA==",
+      "sha512": "LGvb5qci9HUWWOnA2ASvGwDeQcsC4Mx1i0vTvaPseARkpHvJStCN/ZiM+Y6c2/L6IdUaHz3L6hDqxXs7i5MuaQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -683,7 +683,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
-      "sha512": "xObHJXxW3Th+RmonBWnKRKgnGbSvd5ZysvHrSvdXmtaUlC55uWM49yAS/KokUyJ9Sas35UGTBRmM0CTV+2EUBw==",
+      "sha512": "0OU8tP0mcvJMlu7x73lEqx+PTRcADpbH69uHJa+S5cy3fnp6AkbbntkQNrBnpa0cBovF9ylXR7UKhw7EYDwc8g==",
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
@@ -998,7 +998,7 @@
       ]
     },
     "System.Collections/4.3.0": {
-      "sha512": "zgVmZ00A8bpk2qblIR/2ZZy7pY7ldm/UoSamis0X4FPNYm9HzhTYNTm1GwGvE5U03L4869CU1+xqZUzrH24c/w==",
+      "sha512": "R/XQT+mC4u8l9lHwkwh0KI5+cXfrNBV4c9N8jZdeQrF2TWb88+i14kKXbYdsYTG2dJ1D3K1XHZxlSsk/KENjGw==",
       "type": "package",
       "path": "system.collections/4.3.0",
       "files": [
@@ -1130,7 +1130,7 @@
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
-      "sha512": "NDFvPyusM20gSbXxHFza1+bcbJlufkU8Ayr7sFYsHMYKsHoM309FYj62G9FelLsPftkYEgXgHAl/w2XfmvpdjA==",
+      "sha512": "RU8dO4zEGDnUpzb1PyU+tSA96YviZtNaWY96dzXlSc32Iyy0HXilLqdXPBBPruw6x6mhgKaVJqtBM9cSpjM03Q==",
       "type": "package",
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
@@ -1221,7 +1221,7 @@
       ]
     },
     "System.Diagnostics.Tracing/4.3.0": {
-      "sha512": "LN45JSPa/Ev2RDJUol3IksBwizm11vnrWuZWfiBj0MPST2NhK2lUKz4uQhFd8uFspDZtEyxWw1p68XKDShVmbg==",
+      "sha512": "/o1ofa07t45buSNQJJuSTswlpMgpODGrjRHZyKjW08A0d8EIys/HxfwpPpfG+7xtYAOVkXt40miotVe6dyf6xw==",
       "type": "package",
       "path": "system.diagnostics.tracing/4.3.0",
       "files": [
@@ -1309,7 +1309,7 @@
       ]
     },
     "System.IO/4.3.0": {
-      "sha512": "Z2vAkb3ym7KWQ62hIQIZboljoYkuaJRVEmJe/2Y+pPqu/mcOXujxNQO0qHNsa7jHD7jqpQ8pL4hZYD/Y8MQdng==",
+      "sha512": "WthYGINgMq4pgzKoh31skYw41relKzJV8nyd/lYVgBC761czW3XDh43JJUtG66UED8S0cyB+9SUOcHp46hkirw==",
       "type": "package",
       "path": "system.io/4.3.0",
       "files": [
@@ -1453,7 +1453,7 @@
       ]
     },
     "System.Reflection/4.3.0": {
-      "sha512": "Y6C2NCLroW+yrzRsW8DUVrirPKzjXPbF/LQOmj7pnFyOHGQ8LpQyQEuT/vkMFbqtRHfIa6aVvIqm7+IawE1LPw==",
+      "sha512": "dNxL/vciZtpRKoOgceEsCRDEkdY3Sp/r1jRFRgZscZWnok/DROLpx8YgFJYuWCT4vGCCx2v/vZfagFOWxAsUFQ==",
       "type": "package",
       "path": "system.reflection/4.3.0",
       "files": [
@@ -1532,7 +1532,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "v73Aw5R6A+JcUmqwKQs8xueiL0lLV5ChmR8MTwUSQtk/T+1tQnwuT78yoSvkSr8aKf6OLRfO1xqa3KvyqlX3MA==",
+      "sha512": "Z1eQ9hs5rloBYcmHc9HuwuKRWzr6BGIDQosBML30kDuPJFJmb6mba6onj7lWbwiQEvctw0z2uDUSgfrjt+XgPw==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -1575,7 +1575,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "S+62qmxxilBpgNpc2/dakajUlKVUO4ywNxK98mAGawkvPsScNo5R2ZwZwr5IorxzH2XoYXYSvGyQQvRMolmBaw==",
+      "sha512": "+KozUqpSKOnNt+CrKig6onXrNruRpoZFZFkJ4e03QOk1LI2Dnpbz0EyaqMZNDGfkUg/IjRSGgvs9k867FbbfEA==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
@@ -1618,7 +1618,7 @@
       ]
     },
     "System.Reflection.Primitives/4.3.0": {
-      "sha512": "HpMcZ9f9wwxpeii+X7hBK086t4n5spg6Sa31KLEhM3XJe0v44xc7DM0/LENctfga9o+UojYdWNyfGXDCcovpMA==",
+      "sha512": "SJu92hKCC7W4cSd+9uRpalcB9NYX/sO/tkuNAWP1F8dQ+KC5p5l0YssSn5rk8spIYRUymNoHm0yOfhkQHVvVNA==",
       "type": "package",
       "path": "system.reflection.primitives/4.3.0",
       "files": [
@@ -1735,7 +1735,7 @@
       ]
     },
     "System.Runtime/4.3.0": {
-      "sha512": "F/AaSlCKExi13cWbNaGPFJspCG0kYZz1mAxkACitc2wrKPAw0+B0nzSiRDUYX/gjGsGjapTYoI1+4QlGcnsFaw==",
+      "sha512": "2cp9vGdEjDi6cGCes0ej8a38pVu/4wCnbwF9WLdNzHV3ulXvLsGoiCd1l1amit+eQX1jBcNIwO70oPhLvQw1Cw==",
       "type": "package",
       "path": "system.runtime/4.3.0",
       "files": [
@@ -1849,7 +1849,7 @@
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
-      "sha512": "D00ZYW0lRw2ceo2Tln6LQus1tXKuzFXzGWoSF9tG8e3tjXGK5kGqxPgSV/sF5T37JHwQXlnTV7hcaGkK2O+JqA==",
+      "sha512": "zta8O3xMhtDgMvQ8/iRHXQBIkA2aKHldruVVaA0AZmtSkaq3gW9Dj1tEpjwCLDoKsO640N4vsSiJU7dVvmFr0A==",
       "type": "package",
       "path": "system.runtime.extensions/4.3.0",
       "files": [
@@ -2004,7 +2004,7 @@
       ]
     },
     "System.Text.Encoding/4.3.0": {
-      "sha512": "xqdxAzASvUDxQBTl4/gyT0JfvSMIgrsuy4l5flXP6kKY6ZhqOxfb+Dqowr31AE1jvqv3nPNZ/u6qyD17SMjNGg==",
+      "sha512": "8xxoU2TvritZNgxOhmzwJ5pPUF9fBTx6Rq/LgocuzQCuJyzYh1o3bMHkwsF8Ha6MQ/8jBqHymdu8mSJSYxAC4A==",
       "type": "package",
       "path": "system.text.encoding/4.3.0",
       "files": [
@@ -2116,7 +2116,7 @@
       ]
     },
     "System.Threading/4.3.0": {
-      "sha512": "XQ3vPhKmXledxFpS2uHS0QU7fIgPEyqwd3zT7uPAtMDSqjqyaYReV83hSKQyWCnZD2xbktz8t4JOK6nbfTsTkQ==",
+      "sha512": "U9MQySbzCOYLkiwU1jzClipntOaiZt2DnQTjJ9H/faLBJt37ii0NiqeanZnwVW8Nc+MRpX7OxtCunw13fIi/eg==",
       "type": "package",
       "path": "system.threading/4.3.0",
       "files": [
@@ -2185,7 +2185,7 @@
       ]
     },
     "System.Threading.Tasks/4.3.0": {
-      "sha512": "Fai3WC6DGfXma4mp6QWsXQKoyJ+25FjVkVMmuWnGn77HkStxHCUcA1P+tOd7EdsJRFCaEZbtRGnfvgMAQS7/IQ==",
+      "sha512": "VdqDnfxF/wiFhWl2bXuIiGsXAw5fMZYFVokBbQWxm1UFLkwNSmlZbcTitigYnfhYkOYbReJM0a7NZq0owdhVMQ==",
       "type": "package",
       "path": "system.threading.tasks/4.3.0",
       "files": [
@@ -2275,23 +2275,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\豆旭波\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\Hubert.Service.System.csproj",
+      "projectUniqueName": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\Hubert.Service.System.csproj",
       "projectName": "Hubert.Service.System",
-      "projectPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\Hubert.Service.System.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\obj\\",
+      "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\Hubert.Service.System.csproj",
+      "packagesPath": "C:\\Users\\豆旭波\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Service\\Hubert.Service.System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\豆旭波\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2304,14 +2304,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj": {
-              "projectPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj"
+            "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj": {
+              "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj"
             },
-            "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj": {
-              "projectPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj"
+            "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj": {
+              "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj"
             },
-            "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.ORM\\Hubert.ORM.Dapper\\Hubert.ORM.Dapper.csproj": {
-              "projectPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.ORM\\Hubert.ORM.Dapper\\Hubert.ORM.Dapper.csproj"
+            "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.ORM\\Hubert.ORM.Dapper\\Hubert.ORM.Dapper.csproj": {
+              "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.ORM\\Hubert.ORM.Dapper\\Hubert.ORM.Dapper.csproj"
             }
           }
         }

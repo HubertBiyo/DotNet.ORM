@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "7DUxlu/edHE+oa6PUd0/nRw0FmmJDyihiXVB3B4UTM6B1JV4S3aX92qNAr6OxlJIZLyYhvosF0s/uszEnzXolA==",
+      "sha512": "LGvb5qci9HUWWOnA2ASvGwDeQcsC4Mx1i0vTvaPseARkpHvJStCN/ZiM+Y6c2/L6IdUaHz3L6hDqxXs7i5MuaQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\豆旭波\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
+      "projectUniqueName": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
       "projectName": "Hubert.Entities.System",
-      "projectPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\京盾安邦\\github\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\obj\\",
+      "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
+      "packagesPath": "C:\\Users\\豆旭波\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\豆旭波\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

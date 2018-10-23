@@ -7,3 +7,12 @@ C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.Sys
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfo.cs
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.dll
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.deps.json
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.csprojAssemblyReference.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.csproj.CoreCompileInputs.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfoInputs.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfo.cs
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.pdb

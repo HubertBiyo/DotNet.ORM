@@ -12,3 +12,17 @@ C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\De
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csproj.CopyComplete
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
 C:\京盾安邦\github\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.deps.json
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Common.Method.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Entities.System.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Common.Method.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\bin\Debug\netstandard2.0\Hubert.Entities.System.pdb
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csprojAssemblyReference.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csproj.CoreCompileInputs.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.AssemblyInfoInputs.cache
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.AssemblyInfo.cs
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.csproj.CopyComplete
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.dll
+F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.ORM\Hubert.ORM.Dapper\obj\Debug\netstandard2.0\Hubert.ORM.Dapper.pdb
