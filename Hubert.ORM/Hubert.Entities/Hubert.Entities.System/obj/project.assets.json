@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "LGvb5qci9HUWWOnA2ASvGwDeQcsC4Mx1i0vTvaPseARkpHvJStCN/ZiM+Y6c2/L6IdUaHz3L6hDqxXs7i5MuaQ==",
+      "sha512": "Izpo9BmFXyAk+bXvGIeJw5b/Y63KRHkXoxRiXOpf9a/cQvZHmNRDv6yT2S/N+tSPBZj15jBUymOuJbEiQ1VhUw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\豆旭波\\.nuget\\packages\\": {},
+    "C:\\Users\\Hubert\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
+      "projectUniqueName": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
       "projectName": "Hubert.Entities.System",
-      "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
-      "packagesPath": "C:\\Users\\豆旭波\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\obj\\",
+      "projectPath": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\Hubert.Entities.System.csproj",
+      "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Entities\\Hubert.Entities.System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\豆旭波\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

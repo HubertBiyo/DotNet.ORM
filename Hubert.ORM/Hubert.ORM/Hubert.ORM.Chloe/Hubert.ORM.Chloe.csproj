@@ -5,10 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Chloe" Version="3.4.0" />
+    <PackageReference Include="Chloe.MySql" Version="3.4.2" />
+    <PackageReference Include="MySql.Data" Version="8.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\Hubert.Common\Hubert.Common.Method\Hubert.Common.Method.csproj" />
     <ProjectReference Include="..\..\Hubert.Entities\Hubert.Entities.System\Hubert.Entities.System.csproj" />
-    <ProjectReference Include="..\..\Hubert.ORM\Hubert.ORM.Chloe\Hubert.ORM.Chloe.csproj" />
-    <ProjectReference Include="..\..\Hubert.ORM\Hubert.ORM.Dapper\Hubert.ORM.Dapper.csproj" />
   </ItemGroup>
 
 </Project>

@@ -16,3 +16,12 @@ F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\net
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.AssemblyInfo.cs
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.dll
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\bin\Debug\netstandard2.0\Hubert.Common.Method.deps.json
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\bin\Debug\netstandard2.0\Hubert.Common.Method.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\bin\Debug\netstandard2.0\Hubert.Common.Method.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.csprojAssemblyReference.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.csproj.CoreCompileInputs.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.AssemblyInfoInputs.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.AssemblyInfo.cs
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Common\Hubert.Common.Method\obj\Debug\netstandard2.0\Hubert.Common.Method.pdb

@@ -16,3 +16,12 @@ F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfo.cs
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.dll
 F:\GitHub\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.deps.json
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\bin\Debug\netstandard2.0\Hubert.Entities.System.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.csprojAssemblyReference.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.csproj.CoreCompileInputs.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfoInputs.cache
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.AssemblyInfo.cs
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Entities\Hubert.Entities.System\obj\Debug\netstandard2.0\Hubert.Entities.System.pdb

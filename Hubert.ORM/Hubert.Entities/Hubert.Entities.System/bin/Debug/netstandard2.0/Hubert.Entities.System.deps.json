@@ -32,7 +32,7 @@
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LGvb5qci9HUWWOnA2ASvGwDeQcsC4Mx1i0vTvaPseARkpHvJStCN/ZiM+Y6c2/L6IdUaHz3L6hDqxXs7i5MuaQ==",
+      "sha512": "sha512-Izpo9BmFXyAk+bXvGIeJw5b/Y63KRHkXoxRiXOpf9a/cQvZHmNRDv6yT2S/N+tSPBZj15jBUymOuJbEiQ1VhUw==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },

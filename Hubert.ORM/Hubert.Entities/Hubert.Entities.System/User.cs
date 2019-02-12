@@ -19,4 +19,18 @@ namespace Hubert.Entities.System
         public string Remark { get; set; }
 
     }
+
+    /// <summary>
+    /// ORM 之 MySql数据库使用  映射数据库 UserMySql 表   
+    /// add time  2019.02.12    
+    /// author  HubertBiyo
+    /// </summary>
+    public class UserMySql
+    {
+        public string ID { get; set; }
+        public string  Name { get; set; }
+        public string  Phone { get; set; }
+        public string Address { get; set; }
+        public string  Email { get; set; }
+    }
 }

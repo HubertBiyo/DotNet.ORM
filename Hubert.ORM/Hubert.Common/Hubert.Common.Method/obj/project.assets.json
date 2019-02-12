@@ -283,7 +283,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "LGvb5qci9HUWWOnA2ASvGwDeQcsC4Mx1i0vTvaPseARkpHvJStCN/ZiM+Y6c2/L6IdUaHz3L6hDqxXs7i5MuaQ==",
+      "sha512": "Izpo9BmFXyAk+bXvGIeJw5b/Y63KRHkXoxRiXOpf9a/cQvZHmNRDv6yT2S/N+tSPBZj15jBUymOuJbEiQ1VhUw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -451,10 +451,11 @@
       ]
     },
     "NLog/4.5.8": {
-      "sha512": "t0NJVxerdU9QYgQQLa4XA3v1eLDBnJ5MF7AyoMxmJu38iAzrB4hVZYcCH3j0tKFKm7fOIx5jNbnAd9GD4mRTEA==",
+      "sha512": "8MzV81cLzeg4oIR04GvRa9YdaKHuvF+mPPwNHBs0hsSOkhFdVg2jsRU+vUZJ5Z693dBHZrxjjr0f/il1Nrioww==",
       "type": "package",
       "path": "nlog/4.5.8",
       "files": [
+        ".signature.p7s",
         "lib/monoandroid44/NLog.dll",
         "lib/monoandroid44/NLog.xml",
         "lib/net35/NLog.dll",
@@ -482,10 +483,11 @@
       ]
     },
     "System.Buffers/4.4.0": {
-      "sha512": "AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw==",
+      "sha512": "VCJfpWcYG1gT3WwivZWgT0KaqY678MQBvrOI2si6V8GHeQOtuW+wpiv5ss4KyfGG+cFFdPNaI+nw2/kExCtGgQ==",
       "type": "package",
       "path": "system.buffers/4.4.0",
       "files": [
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp2.0/_._",
@@ -529,10 +531,11 @@
       ]
     },
     "System.Numerics.Vectors/4.4.0": {
-      "sha512": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
+      "sha512": "ZhdgJiihSOGD325jClouHy8WSPtwFSj6K1OymoEyN0Wc9Y6X2OVxn65VKfTWHQOYM+QljlVSreporVNvZm8rEA==",
       "type": "package",
       "path": "system.numerics.vectors/4.4.0",
       "files": [
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -602,23 +605,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\豆旭波\\.nuget\\packages\\": {},
+    "C:\\Users\\Hubert\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj",
+      "projectUniqueName": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj",
       "projectName": "Hubert.Common.Method",
-      "projectPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj",
-      "packagesPath": "C:\\Users\\豆旭波\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\obj\\",
+      "projectPath": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\Hubert.Common.Method.csproj",
+      "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\Hubert\\DotNet.ORM\\Hubert.ORM\\Hubert.Common\\Hubert.Common.Method\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\豆旭波\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
