@@ -69,3 +69,5 @@ E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\obj\Debug\net
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\obj\Debug\netcoreapp2.1\Hubert.Test.ORM.csproj.CopyComplete
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\obj\Debug\netcoreapp2.1\Hubert.Test.ORM.dll
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\obj\Debug\netcoreapp2.1\Hubert.Test.ORM.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\bin\Debug\netcoreapp2.1\Hubert.ORM.EF.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Test\Hubert.Test.ORM\bin\Debug\netcoreapp2.1\Hubert.ORM.EF.pdb

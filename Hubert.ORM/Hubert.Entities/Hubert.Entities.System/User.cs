@@ -2,6 +2,9 @@
 
 namespace Hubert.Entities.System
 {
+    /// <summary>
+    /// SQLServer 表
+    /// </summary>
     public class User
     {
         public Guid Id { get; set; }
@@ -17,7 +20,6 @@ namespace Hubert.Entities.System
 
         public DateTime UpdateTime { get; set; }
         public string Remark { get; set; }
-
     }
 
     /// <summary>

@@ -4,20 +4,12 @@ using Hubert.ORM.Dapper.IDataProviders;
 using Hubert.ORM.Dapper.SqlDataProviders;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Data.SqlClient;
 
 namespace Hubert.ORM.Dapper
 {
     public class DataProviders
     {
-        internal static string Connection_Sql
-        {
-            get
-                {
-                string connectionString = ConfigHelper.GetString("AppSettings:SqlConnectionString:ConnectionString");
-                return connectionString;
-            }
-        }
         public static IUserDataProvider UserDataProvider
         {
             get {return Get<IUserDataProvider, SqlUserDataProvider>(); }
@@ -48,5 +40,14 @@ namespace Hubert.ORM.Dapper
             _instanceDic = new Dictionary<Type, object>();
         }
         private static readonly Dictionary<Type, object> _instanceDic;
+    }
+    public class DapperContext
+    {
+        public static SqlConnection GetSqlConnection()
+        {
+            SqlConnection conn = new SqlConnection(ConfigHelper.GetString("AppSettings:SqlConnectionString:ConnectionString"));
+            conn.Open();
+            return conn;
+        }
     }
 }

@@ -35,7 +35,7 @@ VALUES  ( @Id ,
           @Remark 
         )
 ");
-            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = DapperContext.GetSqlConnection())
             {
                 return conn.Execute(sql.ToString(), model) > 0;
 
@@ -48,7 +48,7 @@ VALUES  ( @Id ,
 DELETE  FROM [dbo].[User]
 WHERE   Id = @Id
 ");
-            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = DapperContext.GetSqlConnection())
             {
                 return conn.Execute(sql.ToString(), new { Id }) > 0;
             }
@@ -67,7 +67,7 @@ SET     [UserName] = @UserName ,
         [Remark] = @Remark 
 WHERE   Id = @Id
 ");
-            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = DapperContext.GetSqlConnection())
             {
                 return conn.Execute(sql.ToString(), model) > 0;
             }
@@ -84,7 +84,7 @@ WHERE   RowNum BETWEEN STR(@PageIndex - 1) * @PageSize + 1
                AND     STR(@PageIndex * @PageSize)
 ");
             var list = new List<User>();
-            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = DapperContext.GetSqlConnection())
             {
                 return conn.Query<User>(sql.ToString(), condition).ToList();
             }
@@ -94,18 +94,10 @@ WHERE   RowNum BETWEEN STR(@PageIndex - 1) * @PageSize + 1
             StringBuilder sql = new StringBuilder(@"
 SELECT COUNT(0) Total FROM dbo.[User]
 ");
-            using (IDbConnection conn = GetSqlConnection(DataProviders.Connection_Sql))
+            using (IDbConnection conn = DapperContext.GetSqlConnection())
             {
                 return conn.Query<User>(sql.ToString(), null).ToList().Count();
             }
         }
-        private static SqlConnection GetSqlConnection(string sqlConnectionString)
-        {
-            SqlConnection conn = new SqlConnection(sqlConnectionString);
-            conn.Open();
-            return conn;
-        }
-
-        
     }
 }

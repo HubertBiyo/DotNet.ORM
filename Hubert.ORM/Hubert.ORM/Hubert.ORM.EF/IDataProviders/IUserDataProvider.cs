@@ -1,8 +1,10 @@
 ﻿using Hubert.Common.Method.Data;
 using Hubert.Entities.System;
+using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace Hubert.ORM.Chloe.IDataProviders
+namespace Hubert.ORM.EF.IDataProviders
 {
     public interface IUserDataProvider:IDataProvider
     {

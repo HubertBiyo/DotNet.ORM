@@ -2,9 +2,7 @@
 using Chloe.MySql;
 using Hubert.Entities.System;
 using Hubert.ORM.Chloe.IDataProviders;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Hubert.ORM.Chloe.MySqlDataProviders
 {

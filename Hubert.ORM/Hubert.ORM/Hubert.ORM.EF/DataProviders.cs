@@ -1,26 +1,15 @@
-﻿using Chloe.Infrastructure;
-using Hubert.Common.Method.Configuration;
-using Hubert.Common.Method.Data;
-using Hubert.ORM.Chloe.IDataProviders;
-using Hubert.ORM.Chloe.MySqlDataProviders;
-using MySql.Data.MySqlClient;
+﻿using Hubert.Common.Method.Data;
+using Hubert.Entities.System;
+using Hubert.ORM.EF.IDataProviders;
+using Hubert.ORM.EF.MySqlDataProviders;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
-using System.Data;
-using ChloeMySql = Chloe.MySql;
 
-namespace Hubert.ORM.Chloe
+namespace Hubert.ORM.EF
 {
     public class DataProviders
     {
-        internal static string Connection_Sql
-        {
-            get
-            {
-                string connectionString = ConfigHelper.GetString("AppSettings:MysqlConnectionString:ConnectionString");
-                return connectionString;
-            }
-        }
         public static IUserDataProvider UserDataProvider
         {
             get { return Get<IUserDataProvider, MySqlUserDataProvider>(); }
@@ -52,18 +41,20 @@ namespace Hubert.ORM.Chloe
         }
         private static readonly Dictionary<Type, object> _instanceDic;
     }
-    public class MySqlConnectionFactory : IDbConnectionFactory
+    /// <summary>
+    /// ORM.EF 框架的使用
+    /// </summary>
+    public class MySqlDbContext : DbContext
     {
-        string _connString = null;
-        public MySqlConnectionFactory(string connString)
+        public DbSet<UserMySql> UserMySql { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            this._connString = connString;
+            optionsBuilder.UseMySql("Server=173.82.240.222;Uid=root;Pwd=bo79715...;Database=Hubert_Test;Charset=utf8;Allow User Variables=True");
         }
-        public IDbConnection CreateConnection()
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            IDbConnection conn = new MySqlConnection(this._connString);
-            conn = new ChloeMySql.ChloeMySqlConnection(conn);
-            return conn;
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<UserMySql>().HasIndex(u => u.ID).IsUnique();
         }
     }
 }

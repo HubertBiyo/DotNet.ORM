@@ -48,3 +48,5 @@ E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.csproj.CopyComplete
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.dll
 E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\obj\Debug\netstandard2.0\Hubert.Service.System.pdb
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.ORM.EF.dll
+E:\GitHub\Hubert\DotNet.ORM\Hubert.ORM\Hubert.Service\Hubert.Service.System\bin\Debug\netstandard2.0\Hubert.ORM.EF.pdb
